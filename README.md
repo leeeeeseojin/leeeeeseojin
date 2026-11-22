@@ -19,6 +19,6 @@ Making capable AI agents easy to understand, guide, and work with.
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright">
 
-<img width="100%" src="https://raw.githubusercontent.com/leeeeeseojin/leeeeeseojin/output/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph">
+<img width="100%" src="https://raw.githubusercontent.com/leeeeeseojin/leeeeeseojin/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph">
 
 </div>
