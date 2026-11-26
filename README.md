@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:7C3AED&height=180&section=header&text=Human-AI%20Interaction&fontSize=40&fontAlign=72&fontAlignY=36&fontColor=ffffff" alt="Human-AI Interaction">
 
+Undergraduate (entered 2024) · Computer and Information Engineering, Intelligent Information · Kwangwoon University
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2000&pause=3000&color=7C3AED&center=true&vCenter=true&width=520&height=50&lines=AI+Agent+UX;Interactive+Systems" alt="AI Agent UX, Interactive Systems">
 
 Making capable AI agents easy to understand, guide, and work with.
